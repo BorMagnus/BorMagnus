@@ -1,1 +1,1 @@
-Master student in Software Engineering with specialization in Data Science at University of Bergen and Western Norway University of Applied Science, Norway.
+I am a Software Engineering graduate with a Master's degree in Data Science from the University of Bergen and Western Norway University of Applied Sciences, Norway.
